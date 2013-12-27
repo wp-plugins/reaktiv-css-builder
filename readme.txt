@@ -1,7 +1,7 @@
 === Reaktiv CSS Builder ===
 Contributors: norcross, reaktivstudios
 Website Link: http://reaktivstudios.com/plugins/
-Donate link: https://andrewnorcross.com/donate
+Donate link: http://andrewnorcross.com/donate
 Tags: css, custom design
 Requires at least: 3.6
 Tested up to: 3.8
