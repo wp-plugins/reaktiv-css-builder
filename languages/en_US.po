@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rkvcss\n"
+"POT-Creation-Date: 2013-12-26 17:28-0500\n"
+"PO-Revision-Date: 2013-12-26 17:28-0500\n"
+"Last-Translator: Andrew Norcross <andrew@andrewnorcross.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: lib\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: reaktiv-css-builder.php:156
+msgid "The custom CSS has been generated."
+msgstr ""
+
+#: reaktiv-css-builder.php:161
+msgid "The custom CSS could not be generated."
+msgstr ""
+
+#: reaktiv-css-builder.php:232 reaktiv-css-builder.php:271
+msgid "CSS Builder"
+msgstr ""
+
+#: reaktiv-css-builder.php:287
+msgid "Custom CSS Builder"
+msgstr ""
+
+#: reaktiv-css-builder.php:294
+msgid ""
+"Enter your CSS below and it will display on the front end of the site. Keep "
+"in mind that you may have to be more specific that the existing CSS for it "
+"to take precedent."
+msgstr ""
+
+#: reaktiv-css-builder.php:298
+msgid "Save CSS"
+msgstr ""
