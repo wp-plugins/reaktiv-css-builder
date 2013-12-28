@@ -5,7 +5,7 @@ Donate link: http://andrewnorcross.com/donate
 Tags: css, custom design
 Requires at least: 3.6
 Tested up to: 3.8
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,6 +20,7 @@ Features
 
 *   CSS editor contains live syntax highlighting
 *	Multisite compatible
+*	Import and export capabilities
 
 == Installation ==
 
@@ -41,6 +42,9 @@ There are times where it isn't feasible to edit a theme CSS file, or install a l
 
 A new folder is created called `custom-css` within your uploads folder.
 
+= Can I import or export this data? =
+
+Sure can! The buttons below will allow for importing and exporting. A JSON file is created and stored.
 
 == Screenshots ==
 
@@ -49,6 +53,9 @@ A new folder is created called `custom-css` within your uploads folder.
 
 
 == Changelog ==
+
+= 1.1.0 =
+* Adding import / export functionality
 
 = 1.0.0 =
 * First release!
